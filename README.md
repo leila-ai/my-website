@@ -7,9 +7,9 @@ I learn best by doing projects. Once I learned HTML, CSS, and basic JavaScript, 
 
 This project is still in progress and I have yet to finish it. But this is the initial design of this version of my website.
 
-I would appreciate any recommendations and feedabcks on it.
+I would appreciate any recommendations and feedbacks on it.
 
-This is pure CSS I have written usign SASS.
+This is pure CSS I have written using SASS.
 No Bootstrap or any other CSS frameworks has been used.
 I have used both pure JS and jQuery.
 The form is submitted via PHP.
