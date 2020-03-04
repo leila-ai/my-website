@@ -9,6 +9,7 @@ This project is still in progress and I have yet to finish it. But this is the i
 
 I would appreciate any recommendations and feedabcks on it.
 
-This is pure CSS I have written usign SASS. No Bootstrap or any other CSS frameworks has been used.
+This is pure CSS I have written usign SASS.
+No Bootstrap or any other CSS frameworks has been used.
 I have used both pure JS and jQuery.
 The form is submitted via PHP.
